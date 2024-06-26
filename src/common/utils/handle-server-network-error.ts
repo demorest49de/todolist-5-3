@@ -1,4 +1,4 @@
-import { Dispatch } from "redux";
+import { Dispatch } from "@reduxjs/toolkit";
 import axios, { AxiosError } from "axios";
 import { appActions } from "app/app.reducer";
 

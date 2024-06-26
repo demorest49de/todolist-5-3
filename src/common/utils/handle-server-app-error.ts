@@ -1,4 +1,4 @@
-import { Dispatch } from "redux";
+import { Dispatch } from "@reduxjs/toolkit";
 import { appActions } from "app/app.reducer";
 import { ResponseType } from "common/types/common.types";
 
